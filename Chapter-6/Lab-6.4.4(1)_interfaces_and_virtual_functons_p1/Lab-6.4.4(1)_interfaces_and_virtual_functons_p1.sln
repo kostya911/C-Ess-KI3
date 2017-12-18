@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab-6.4.4(1)_interfaces_and_virtual_functons_p1", "Lab-6.4.4(1)_interfaces_and_virtual_functons_p1\Lab-6.4.4(1)_interfaces_and_virtual_functons_p1.vcxproj", "{361C7600-6579-4D12-9A39-2C5A5C6B89A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361C7600-6579-4D12-9A39-2C5A5C6B89A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{361C7600-6579-4D12-9A39-2C5A5C6B89A2}.Debug|Win32.Build.0 = Debug|Win32
+		{361C7600-6579-4D12-9A39-2C5A5C6B89A2}.Release|Win32.ActiveCfg = Release|Win32
+		{361C7600-6579-4D12-9A39-2C5A5C6B89A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
