@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab-5.3.10(3)_Flight_booking_system_p3", "Lab-5.3.10(3)_Flight_booking_system_p3\Lab-5.3.10(3)_Flight_booking_system_p3.vcxproj", "{33B5E7A6-E391-4AFC-AED0-487E6C7CB16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B5E7A6-E391-4AFC-AED0-487E6C7CB16E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33B5E7A6-E391-4AFC-AED0-487E6C7CB16E}.Debug|Win32.Build.0 = Debug|Win32
+		{33B5E7A6-E391-4AFC-AED0-487E6C7CB16E}.Release|Win32.ActiveCfg = Release|Win32
+		{33B5E7A6-E391-4AFC-AED0-487E6C7CB16E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
