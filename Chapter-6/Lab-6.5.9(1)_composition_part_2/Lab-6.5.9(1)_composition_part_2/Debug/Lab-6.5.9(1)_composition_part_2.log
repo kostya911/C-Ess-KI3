@@ -1,0 +1,21 @@
+﻿Build started 12/18/2017 10:42:36 PM.
+     1>Project "D:\Practice\Chapter-6\Lab-6.5.9(1)_composition_part_2\Lab-6.5.9(1)_composition_part_2\Lab-6.5.9(1)_composition_part_2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Lab-6.5.9(1)_composition_part_2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab-6.5.9(1)_composition_part_2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Lab-6.5.9(1)_composition_part_2.cpp"
+         Lab-6.5.9(1)_composition_part_2.cpp
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(195): error C2143: syntax error : missing ')' before '{'
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(195): error C2143: syntax error : missing ';' before '{'
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(195): error C2661: 'Car::Car' : no overloaded function takes 2 arguments
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(195): error C2143: syntax error : missing ';' before '}'
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(195): error C2143: syntax error : missing ';' before ','
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(196): error C2143: syntax error : missing ';' before '{'
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(196): error C2143: syntax error : missing ';' before '}'
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(197): error C2143: syntax error : missing ';' before ','
+     1>d:\practice\chapter-6\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2\lab-6.5.9(1)_composition_part_2.cpp(198): error C2059: syntax error : ')'
+     1>Done Building Project "D:\Practice\Chapter-6\Lab-6.5.9(1)_composition_part_2\Lab-6.5.9(1)_composition_part_2\Lab-6.5.9(1)_composition_part_2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.58
