@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab-7.2.4(1)_exceptions_catch_block", "Lab-7.2.4(1)_exceptions_catch_block\Lab-7.2.4(1)_exceptions_catch_block.vcxproj", "{670163C2-7A79-4159-A9A6-517FD8994FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670163C2-7A79-4159-A9A6-517FD8994FD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{670163C2-7A79-4159-A9A6-517FD8994FD3}.Debug|Win32.Build.0 = Debug|Win32
+		{670163C2-7A79-4159-A9A6-517FD8994FD3}.Release|Win32.ActiveCfg = Release|Win32
+		{670163C2-7A79-4159-A9A6-517FD8994FD3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
